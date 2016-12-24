@@ -1,4 +1,4 @@
-# Node modules cloned from ReduxSimpleStarter by Stephen Grider
+## Node modules cloned from ReduxSimpleStarter by Stephen Grider
 
 ```
 	> npm install
